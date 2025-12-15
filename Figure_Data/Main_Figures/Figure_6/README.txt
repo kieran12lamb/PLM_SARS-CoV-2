@@ -1,0 +1,2 @@
+The SARS-CoV-2 spike sequences used for Figure 6 are from GISAID (https://doi.org/10.55876/gis8.240621ma). 
+7 of the Sarbeco virus sequences also come from GISAID (https://doi.org/10.55876/gis8.241002yd). 

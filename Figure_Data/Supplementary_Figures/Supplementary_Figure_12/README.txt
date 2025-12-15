@@ -1,0 +1,1 @@
+Supplementary Figure 12 produced using “D13059_2024_3355_MOESM1_ESM_Spike_filtered.csv” from Figure 2.

@@ -1,0 +1,1021 @@
+date,count,percentage,proportion,feature,method,region
+2020-03,0,0.0,0.1,Entry,Experimental Full Spike,spike
+2020-04,0,0.0,0.1,Entry,Experimental Full Spike,spike
+2020-05,0,0.0,0.1,Entry,Experimental Full Spike,spike
+2020-06,1,0.002145922746781116,0.1,Entry,Experimental Full Spike,spike
+2020-07,2,0.004291845493562232,0.1,Entry,Experimental Full Spike,spike
+2020-08,2,0.004291845493562232,0.1,Entry,Experimental Full Spike,spike
+2020-09,4,0.008583690987124463,0.1,Entry,Experimental Full Spike,spike
+2020-10,7,0.015021459227467811,0.1,Entry,Experimental Full Spike,spike
+2020-11,13,0.027896995708154508,0.1,Entry,Experimental Full Spike,spike
+2020-12,14,0.030042918454935622,0.1,Entry,Experimental Full Spike,spike
+2021-01,23,0.04935622317596566,0.1,Entry,Experimental Full Spike,spike
+2021-02,33,0.07081545064377683,0.1,Entry,Experimental Full Spike,spike
+2021-03,40,0.08583690987124463,0.1,Entry,Experimental Full Spike,spike
+2021-04,48,0.10300429184549356,0.1,Entry,Experimental Full Spike,spike
+2021-05,68,0.1459227467811159,0.1,Entry,Experimental Full Spike,spike
+2021-06,77,0.16523605150214593,0.1,Entry,Experimental Full Spike,spike
+2021-07,91,0.19527896995708155,0.1,Entry,Experimental Full Spike,spike
+2021-08,106,0.22746781115879827,0.1,Entry,Experimental Full Spike,spike
+2021-09,118,0.2532188841201717,0.1,Entry,Experimental Full Spike,spike
+2021-10,127,0.27253218884120173,0.1,Entry,Experimental Full Spike,spike
+2021-11,144,0.3090128755364807,0.1,Entry,Experimental Full Spike,spike
+2021-12,156,0.33476394849785407,0.1,Entry,Experimental Full Spike,spike
+2022-01,163,0.3497854077253219,0.1,Entry,Experimental Full Spike,spike
+2022-02,175,0.37553648068669526,0.1,Entry,Experimental Full Spike,spike
+2022-03,185,0.3969957081545064,0.1,Entry,Experimental Full Spike,spike
+2022-04,192,0.41201716738197425,0.1,Entry,Experimental Full Spike,spike
+2022-05,200,0.4291845493562232,0.1,Entry,Experimental Full Spike,spike
+2022-06,203,0.4356223175965665,0.1,Entry,Experimental Full Spike,spike
+2022-07,212,0.45493562231759654,0.1,Entry,Experimental Full Spike,spike
+2022-08,220,0.4721030042918455,0.1,Entry,Experimental Full Spike,spike
+2020-03,0,0.0,0.1,Binding,Experimental Full Spike,spike
+2020-04,0,0.0,0.1,Binding,Experimental Full Spike,spike
+2020-05,1,0.002145922746781116,0.1,Binding,Experimental Full Spike,spike
+2020-06,2,0.004291845493562232,0.1,Binding,Experimental Full Spike,spike
+2020-07,2,0.004291845493562232,0.1,Binding,Experimental Full Spike,spike
+2020-08,2,0.004291845493562232,0.1,Binding,Experimental Full Spike,spike
+2020-09,3,0.006437768240343348,0.1,Binding,Experimental Full Spike,spike
+2020-10,3,0.006437768240343348,0.1,Binding,Experimental Full Spike,spike
+2020-11,5,0.01072961373390558,0.1,Binding,Experimental Full Spike,spike
+2020-12,6,0.012875536480686695,0.1,Binding,Experimental Full Spike,spike
+2021-01,7,0.015021459227467811,0.1,Binding,Experimental Full Spike,spike
+2021-02,9,0.019313304721030045,0.1,Binding,Experimental Full Spike,spike
+2021-03,13,0.027896995708154508,0.1,Binding,Experimental Full Spike,spike
+2021-04,18,0.03862660944206009,0.1,Binding,Experimental Full Spike,spike
+2021-05,21,0.045064377682403435,0.1,Binding,Experimental Full Spike,spike
+2021-06,25,0.0536480686695279,0.1,Binding,Experimental Full Spike,spike
+2021-07,30,0.06437768240343347,0.1,Binding,Experimental Full Spike,spike
+2021-08,53,0.11373390557939914,0.1,Binding,Experimental Full Spike,spike
+2021-09,60,0.12875536480686695,0.1,Binding,Experimental Full Spike,spike
+2021-10,64,0.13733905579399142,0.1,Binding,Experimental Full Spike,spike
+2021-11,71,0.15236051502145923,0.1,Binding,Experimental Full Spike,spike
+2021-12,78,0.16738197424892703,0.1,Binding,Experimental Full Spike,spike
+2022-01,93,0.19957081545064378,0.1,Binding,Experimental Full Spike,spike
+2022-02,113,0.24248927038626608,0.1,Binding,Experimental Full Spike,spike
+2022-03,119,0.2553648068669528,0.1,Binding,Experimental Full Spike,spike
+2022-04,125,0.26824034334763946,0.1,Binding,Experimental Full Spike,spike
+2022-05,132,0.2832618025751073,0.1,Binding,Experimental Full Spike,spike
+2022-06,136,0.2918454935622318,0.1,Binding,Experimental Full Spike,spike
+2022-07,140,0.30042918454935624,0.1,Binding,Experimental Full Spike,spike
+2022-08,153,0.3283261802575107,0.1,Binding,Experimental Full Spike,spike
+2020-03,0,0.0,0.1,Escape,Experimental Full Spike,spike
+2020-04,0,0.0,0.1,Escape,Experimental Full Spike,spike
+2020-05,0,0.0,0.1,Escape,Experimental Full Spike,spike
+2020-06,0,0.0,0.1,Escape,Experimental Full Spike,spike
+2020-07,0,0.0,0.1,Escape,Experimental Full Spike,spike
+2020-08,0,0.0,0.1,Escape,Experimental Full Spike,spike
+2020-09,0,0.0,0.1,Escape,Experimental Full Spike,spike
+2020-10,0,0.0,0.1,Escape,Experimental Full Spike,spike
+2020-11,2,0.004291845493562232,0.1,Escape,Experimental Full Spike,spike
+2020-12,3,0.006437768240343348,0.1,Escape,Experimental Full Spike,spike
+2021-01,3,0.006437768240343348,0.1,Escape,Experimental Full Spike,spike
+2021-02,3,0.006437768240343348,0.1,Escape,Experimental Full Spike,spike
+2021-03,6,0.012875536480686695,0.1,Escape,Experimental Full Spike,spike
+2021-04,11,0.023605150214592276,0.1,Escape,Experimental Full Spike,spike
+2021-05,13,0.027896995708154508,0.1,Escape,Experimental Full Spike,spike
+2021-06,14,0.030042918454935622,0.1,Escape,Experimental Full Spike,spike
+2021-07,21,0.045064377682403435,0.1,Escape,Experimental Full Spike,spike
+2021-08,30,0.06437768240343347,0.1,Escape,Experimental Full Spike,spike
+2021-09,38,0.0815450643776824,0.1,Escape,Experimental Full Spike,spike
+2021-10,45,0.09656652360515021,0.1,Escape,Experimental Full Spike,spike
+2021-11,53,0.11373390557939914,0.1,Escape,Experimental Full Spike,spike
+2021-12,59,0.12660944206008584,0.1,Escape,Experimental Full Spike,spike
+2022-01,72,0.15450643776824036,0.1,Escape,Experimental Full Spike,spike
+2022-02,84,0.18025751072961374,0.1,Escape,Experimental Full Spike,spike
+2022-03,90,0.19313304721030042,0.1,Escape,Experimental Full Spike,spike
+2022-04,92,0.19742489270386265,0.1,Escape,Experimental Full Spike,spike
+2022-05,94,0.2017167381974249,0.1,Escape,Experimental Full Spike,spike
+2022-06,98,0.21030042918454936,0.1,Escape,Experimental Full Spike,spike
+2022-07,100,0.2145922746781116,0.1,Escape,Experimental Full Spike,spike
+2022-08,103,0.22103004291845493,0.1,Escape,Experimental Full Spike,spike
+2020-03,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2020-04,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2020-05,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2020-06,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2020-07,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2020-08,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2020-09,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2020-10,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2020-11,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2020-12,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2021-01,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2021-02,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2021-03,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2021-04,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2021-05,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2021-06,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2021-07,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2021-08,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2021-09,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2021-10,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2021-11,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2021-12,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2022-01,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2022-02,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2022-03,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2022-04,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2022-05,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2022-06,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2022-07,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2022-08,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,spike
+2020-03,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2020-04,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2020-05,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2020-06,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2020-07,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2020-08,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2020-09,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2020-10,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2020-11,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2020-12,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2021-01,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2021-02,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2021-03,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2021-04,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2021-05,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2021-06,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2021-07,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2021-08,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2021-09,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2021-10,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2021-11,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2021-12,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2022-01,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2022-02,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2022-03,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2022-04,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2022-05,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2022-06,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2022-07,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2022-08,0,0.0,0.1,RBD Variant Average Binding,Experimental,spike
+2020-03,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2020-04,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2020-05,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2020-06,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2020-07,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2020-08,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2020-09,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2020-10,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2020-11,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2020-12,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2021-01,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2021-02,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2021-03,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2021-04,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2021-05,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2021-06,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2021-07,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2021-08,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2021-09,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2021-10,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2021-11,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2021-12,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2022-01,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2022-02,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2022-03,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2022-04,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2022-05,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2022-06,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2022-07,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2022-08,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,spike
+2020-03,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2020-04,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2020-05,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2020-06,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2020-07,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2020-08,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2020-09,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2020-10,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2020-11,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2020-12,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2021-01,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2021-02,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2021-03,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2021-04,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2021-05,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2021-06,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2021-07,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2021-08,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2021-09,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2021-10,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2021-11,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2021-12,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2022-01,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2022-02,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2022-03,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2022-04,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2022-05,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2022-06,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2022-07,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2022-08,0,0.0,0.1,RBD Variant Average Expression,Experimental,spike
+2020-03,0,0.0,0.1,relative_grammaticality,ESM,spike
+2020-04,0,0.0,0.1,relative_grammaticality,ESM,spike
+2020-05,0,0.0,0.1,relative_grammaticality,ESM,spike
+2020-06,0,0.0,0.1,relative_grammaticality,ESM,spike
+2020-07,1,0.002145922746781116,0.1,relative_grammaticality,ESM,spike
+2020-08,1,0.002145922746781116,0.1,relative_grammaticality,ESM,spike
+2020-09,5,0.01072961373390558,0.1,relative_grammaticality,ESM,spike
+2020-10,10,0.02145922746781116,0.1,relative_grammaticality,ESM,spike
+2020-11,15,0.032188841201716736,0.1,relative_grammaticality,ESM,spike
+2020-12,27,0.05793991416309013,0.1,relative_grammaticality,ESM,spike
+2021-01,36,0.07725321888412018,0.1,relative_grammaticality,ESM,spike
+2021-02,45,0.09656652360515021,0.1,relative_grammaticality,ESM,spike
+2021-03,61,0.13090128755364808,0.1,relative_grammaticality,ESM,spike
+2021-04,75,0.1609442060085837,0.1,relative_grammaticality,ESM,spike
+2021-05,84,0.18025751072961374,0.1,relative_grammaticality,ESM,spike
+2021-06,100,0.2145922746781116,0.1,relative_grammaticality,ESM,spike
+2021-07,105,0.22532188841201717,0.1,relative_grammaticality,ESM,spike
+2021-08,130,0.27896995708154504,0.1,relative_grammaticality,ESM,spike
+2021-09,142,0.30472103004291845,0.1,relative_grammaticality,ESM,spike
+2021-10,158,0.33905579399141633,0.1,relative_grammaticality,ESM,spike
+2021-11,173,0.37124463519313305,0.1,relative_grammaticality,ESM,spike
+2021-12,191,0.40987124463519314,0.1,relative_grammaticality,ESM,spike
+2022-01,203,0.4356223175965665,0.1,relative_grammaticality,ESM,spike
+2022-02,211,0.45278969957081544,0.1,relative_grammaticality,ESM,spike
+2022-03,221,0.4742489270386266,0.1,relative_grammaticality,ESM,spike
+2022-04,227,0.4871244635193133,0.1,relative_grammaticality,ESM,spike
+2022-05,233,0.5,0.1,relative_grammaticality,ESM,spike
+2022-06,236,0.5064377682403434,0.1,relative_grammaticality,ESM,spike
+2022-07,241,0.5171673819742489,0.1,relative_grammaticality,ESM,spike
+2022-08,247,0.5300429184549357,0.1,relative_grammaticality,ESM,spike
+2020-03,0,0.0,0.1,semantic_score,ESM,spike
+2020-04,0,0.0,0.1,semantic_score,ESM,spike
+2020-05,0,0.0,0.1,semantic_score,ESM,spike
+2020-06,0,0.0,0.1,semantic_score,ESM,spike
+2020-07,0,0.0,0.1,semantic_score,ESM,spike
+2020-08,0,0.0,0.1,semantic_score,ESM,spike
+2020-09,2,0.004291845493562232,0.1,semantic_score,ESM,spike
+2020-10,3,0.006437768240343348,0.1,semantic_score,ESM,spike
+2020-11,4,0.008583690987124463,0.1,semantic_score,ESM,spike
+2020-12,6,0.012875536480686695,0.1,semantic_score,ESM,spike
+2021-01,11,0.023605150214592276,0.1,semantic_score,ESM,spike
+2021-02,16,0.034334763948497854,0.1,semantic_score,ESM,spike
+2021-03,22,0.04721030042918455,0.1,semantic_score,ESM,spike
+2021-04,36,0.07725321888412018,0.1,semantic_score,ESM,spike
+2021-05,47,0.10085836909871244,0.1,semantic_score,ESM,spike
+2021-06,55,0.11802575107296137,0.1,semantic_score,ESM,spike
+2021-07,63,0.1351931330472103,0.1,semantic_score,ESM,spike
+2021-08,84,0.18025751072961374,0.1,semantic_score,ESM,spike
+2021-09,99,0.21244635193133046,0.1,semantic_score,ESM,spike
+2021-10,117,0.2510729613733906,0.1,semantic_score,ESM,spike
+2021-11,126,0.2703862660944206,0.1,semantic_score,ESM,spike
+2021-12,136,0.2918454935622318,0.1,semantic_score,ESM,spike
+2022-01,156,0.33476394849785407,0.1,semantic_score,ESM,spike
+2022-02,183,0.3927038626609442,0.1,semantic_score,ESM,spike
+2022-03,193,0.41416309012875535,0.1,semantic_score,ESM,spike
+2022-04,198,0.4248927038626609,0.1,semantic_score,ESM,spike
+2022-05,207,0.44420600858369097,0.1,semantic_score,ESM,spike
+2022-06,210,0.45064377682403434,0.1,semantic_score,ESM,spike
+2022-07,215,0.4613733905579399,0.1,semantic_score,ESM,spike
+2022-08,220,0.4721030042918455,0.1,semantic_score,ESM,spike
+2020-03,0,0.0,0.1,relative_grammaticality_with_eve,ESM,spike
+2020-04,0,0.0,0.1,relative_grammaticality_with_eve,ESM,spike
+2020-05,0,0.0,0.1,relative_grammaticality_with_eve,ESM,spike
+2020-06,0,0.0,0.1,relative_grammaticality_with_eve,ESM,spike
+2020-07,0,0.0,0.1,relative_grammaticality_with_eve,ESM,spike
+2020-08,1,0.002145922746781116,0.1,relative_grammaticality_with_eve,ESM,spike
+2020-09,3,0.006437768240343348,0.1,relative_grammaticality_with_eve,ESM,spike
+2020-10,4,0.008583690987124463,0.1,relative_grammaticality_with_eve,ESM,spike
+2020-11,7,0.015021459227467811,0.1,relative_grammaticality_with_eve,ESM,spike
+2020-12,11,0.023605150214592276,0.1,relative_grammaticality_with_eve,ESM,spike
+2021-01,19,0.0407725321888412,0.1,relative_grammaticality_with_eve,ESM,spike
+2021-02,23,0.04935622317596566,0.1,relative_grammaticality_with_eve,ESM,spike
+2021-03,35,0.07510729613733906,0.1,relative_grammaticality_with_eve,ESM,spike
+2021-04,52,0.11158798283261803,0.1,relative_grammaticality_with_eve,ESM,spike
+2021-05,57,0.1223175965665236,0.1,relative_grammaticality_with_eve,ESM,spike
+2021-06,64,0.13733905579399142,0.1,relative_grammaticality_with_eve,ESM,spike
+2021-07,69,0.148068669527897,0.1,relative_grammaticality_with_eve,ESM,spike
+2021-08,81,0.17381974248927037,0.1,relative_grammaticality_with_eve,ESM,spike
+2021-09,87,0.18669527896995708,0.1,relative_grammaticality_with_eve,ESM,spike
+2021-10,98,0.21030042918454936,0.1,relative_grammaticality_with_eve,ESM,spike
+2021-11,103,0.22103004291845493,0.1,relative_grammaticality_with_eve,ESM,spike
+2021-12,111,0.23819742489270387,0.1,relative_grammaticality_with_eve,ESM,spike
+2022-01,124,0.26609442060085836,0.1,relative_grammaticality_with_eve,ESM,spike
+2022-02,134,0.2875536480686695,0.1,relative_grammaticality_with_eve,ESM,spike
+2022-03,144,0.3090128755364807,0.1,relative_grammaticality_with_eve,ESM,spike
+2022-04,148,0.31759656652360513,0.1,relative_grammaticality_with_eve,ESM,spike
+2022-05,152,0.3261802575107296,0.1,relative_grammaticality_with_eve,ESM,spike
+2022-06,152,0.3261802575107296,0.1,relative_grammaticality_with_eve,ESM,spike
+2022-07,154,0.33047210300429186,0.1,relative_grammaticality_with_eve,ESM,spike
+2022-08,156,0.33476394849785407,0.1,relative_grammaticality_with_eve,ESM,spike
+2020-03,0,0.0,0.1,grammaticality,ESM,spike
+2020-04,0,0.0,0.1,grammaticality,ESM,spike
+2020-05,0,0.0,0.1,grammaticality,ESM,spike
+2020-06,0,0.0,0.1,grammaticality,ESM,spike
+2020-07,1,0.002145922746781116,0.1,grammaticality,ESM,spike
+2020-08,1,0.002145922746781116,0.1,grammaticality,ESM,spike
+2020-09,5,0.01072961373390558,0.1,grammaticality,ESM,spike
+2020-10,10,0.02145922746781116,0.1,grammaticality,ESM,spike
+2020-11,16,0.034334763948497854,0.1,grammaticality,ESM,spike
+2020-12,27,0.05793991416309013,0.1,grammaticality,ESM,spike
+2021-01,36,0.07725321888412018,0.1,grammaticality,ESM,spike
+2021-02,46,0.09871244635193133,0.1,grammaticality,ESM,spike
+2021-03,62,0.13304721030042918,0.1,grammaticality,ESM,spike
+2021-04,75,0.1609442060085837,0.1,grammaticality,ESM,spike
+2021-05,87,0.18669527896995708,0.1,grammaticality,ESM,spike
+2021-06,103,0.22103004291845493,0.1,grammaticality,ESM,spike
+2021-07,109,0.23390557939914164,0.1,grammaticality,ESM,spike
+2021-08,137,0.2939914163090129,0.1,grammaticality,ESM,spike
+2021-09,149,0.3197424892703863,0.1,grammaticality,ESM,spike
+2021-10,163,0.3497854077253219,0.1,grammaticality,ESM,spike
+2021-11,178,0.38197424892703863,0.1,grammaticality,ESM,spike
+2021-12,196,0.4206008583690987,0.1,grammaticality,ESM,spike
+2022-01,210,0.45064377682403434,0.1,grammaticality,ESM,spike
+2022-02,221,0.4742489270386266,0.1,grammaticality,ESM,spike
+2022-03,232,0.4978540772532189,0.1,grammaticality,ESM,spike
+2022-04,239,0.5128755364806867,0.1,grammaticality,ESM,spike
+2022-05,244,0.5236051502145923,0.1,grammaticality,ESM,spike
+2022-06,246,0.5278969957081545,0.1,grammaticality,ESM,spike
+2022-07,251,0.5386266094420601,0.1,grammaticality,ESM,spike
+2022-08,259,0.555793991416309,0.1,grammaticality,ESM,spike
+2020-03,0,0.0,0.1,masked_grammaticality,ESM,spike
+2020-04,0,0.0,0.1,masked_grammaticality,ESM,spike
+2020-05,0,0.0,0.1,masked_grammaticality,ESM,spike
+2020-06,1,0.002145922746781116,0.1,masked_grammaticality,ESM,spike
+2020-07,1,0.002145922746781116,0.1,masked_grammaticality,ESM,spike
+2020-08,2,0.004291845493562232,0.1,masked_grammaticality,ESM,spike
+2020-09,2,0.004291845493562232,0.1,masked_grammaticality,ESM,spike
+2020-10,8,0.017167381974248927,0.1,masked_grammaticality,ESM,spike
+2020-11,15,0.032188841201716736,0.1,masked_grammaticality,ESM,spike
+2020-12,24,0.05150214592274678,0.1,masked_grammaticality,ESM,spike
+2021-01,36,0.07725321888412018,0.1,masked_grammaticality,ESM,spike
+2021-02,46,0.09871244635193133,0.1,masked_grammaticality,ESM,spike
+2021-03,64,0.13733905579399142,0.1,masked_grammaticality,ESM,spike
+2021-04,79,0.16952789699570817,0.1,masked_grammaticality,ESM,spike
+2021-05,94,0.2017167381974249,0.1,masked_grammaticality,ESM,spike
+2021-06,112,0.24034334763948498,0.1,masked_grammaticality,ESM,spike
+2021-07,124,0.26609442060085836,0.1,masked_grammaticality,ESM,spike
+2021-08,153,0.3283261802575107,0.1,masked_grammaticality,ESM,spike
+2021-09,175,0.37553648068669526,0.1,masked_grammaticality,ESM,spike
+2021-10,193,0.41416309012875535,0.1,masked_grammaticality,ESM,spike
+2021-11,212,0.45493562231759654,0.1,masked_grammaticality,ESM,spike
+2021-12,229,0.49141630901287553,0.1,masked_grammaticality,ESM,spike
+2022-01,245,0.5257510729613734,0.1,masked_grammaticality,ESM,spike
+2022-02,260,0.5579399141630901,0.1,masked_grammaticality,ESM,spike
+2022-03,272,0.5836909871244635,0.1,masked_grammaticality,ESM,spike
+2022-04,280,0.6008583690987125,0.1,masked_grammaticality,ESM,spike
+2022-05,286,0.6137339055793991,0.1,masked_grammaticality,ESM,spike
+2022-06,289,0.6201716738197425,0.1,masked_grammaticality,ESM,spike
+2022-07,293,0.628755364806867,0.1,masked_grammaticality,ESM,spike
+2022-08,304,0.6523605150214592,0.1,masked_grammaticality,ESM,spike
+2020-03,0,0.0,0.1,mutated_grammaticality,ESM,spike
+2020-04,0,0.0,0.1,mutated_grammaticality,ESM,spike
+2020-05,0,0.0,0.1,mutated_grammaticality,ESM,spike
+2020-06,1,0.002145922746781116,0.1,mutated_grammaticality,ESM,spike
+2020-07,1,0.002145922746781116,0.1,mutated_grammaticality,ESM,spike
+2020-08,2,0.004291845493562232,0.1,mutated_grammaticality,ESM,spike
+2020-09,3,0.006437768240343348,0.1,mutated_grammaticality,ESM,spike
+2020-10,10,0.02145922746781116,0.1,mutated_grammaticality,ESM,spike
+2020-11,17,0.03648068669527897,0.1,mutated_grammaticality,ESM,spike
+2020-12,26,0.055793991416309016,0.1,mutated_grammaticality,ESM,spike
+2021-01,37,0.07939914163090128,0.1,mutated_grammaticality,ESM,spike
+2021-02,46,0.09871244635193133,0.1,mutated_grammaticality,ESM,spike
+2021-03,64,0.13733905579399142,0.1,mutated_grammaticality,ESM,spike
+2021-04,79,0.16952789699570817,0.1,mutated_grammaticality,ESM,spike
+2021-05,94,0.2017167381974249,0.1,mutated_grammaticality,ESM,spike
+2021-06,112,0.24034334763948498,0.1,mutated_grammaticality,ESM,spike
+2021-07,123,0.26394849785407726,0.1,mutated_grammaticality,ESM,spike
+2021-08,151,0.3240343347639485,0.1,mutated_grammaticality,ESM,spike
+2021-09,173,0.37124463519313305,0.1,mutated_grammaticality,ESM,spike
+2021-10,194,0.41630901287553645,0.1,mutated_grammaticality,ESM,spike
+2021-11,211,0.45278969957081544,0.1,mutated_grammaticality,ESM,spike
+2021-12,227,0.4871244635193133,0.1,mutated_grammaticality,ESM,spike
+2022-01,242,0.51931330472103,0.1,mutated_grammaticality,ESM,spike
+2022-02,258,0.5536480686695279,0.1,mutated_grammaticality,ESM,spike
+2022-03,271,0.5815450643776824,0.1,mutated_grammaticality,ESM,spike
+2022-04,280,0.6008583690987125,0.1,mutated_grammaticality,ESM,spike
+2022-05,286,0.6137339055793991,0.1,mutated_grammaticality,ESM,spike
+2022-06,288,0.6180257510729614,0.1,mutated_grammaticality,ESM,spike
+2022-07,293,0.628755364806867,0.1,mutated_grammaticality,ESM,spike
+2022-08,305,0.6545064377682404,0.1,mutated_grammaticality,ESM,spike
+2020-03,0,0.0,0.1,IND Mutability Score,Mutability,spike
+2020-04,0,0.0,0.1,IND Mutability Score,Mutability,spike
+2020-05,0,0.0,0.1,IND Mutability Score,Mutability,spike
+2020-06,0,0.0,0.1,IND Mutability Score,Mutability,spike
+2020-07,0,0.0,0.1,IND Mutability Score,Mutability,spike
+2020-08,0,0.0,0.1,IND Mutability Score,Mutability,spike
+2020-09,1,0.002145922746781116,0.1,IND Mutability Score,Mutability,spike
+2020-10,2,0.004291845493562232,0.1,IND Mutability Score,Mutability,spike
+2020-11,6,0.012875536480686695,0.1,IND Mutability Score,Mutability,spike
+2020-12,10,0.02145922746781116,0.1,IND Mutability Score,Mutability,spike
+2021-01,19,0.0407725321888412,0.1,IND Mutability Score,Mutability,spike
+2021-02,21,0.045064377682403435,0.1,IND Mutability Score,Mutability,spike
+2021-03,40,0.08583690987124463,0.1,IND Mutability Score,Mutability,spike
+2021-04,59,0.12660944206008584,0.1,IND Mutability Score,Mutability,spike
+2021-05,71,0.15236051502145923,0.1,IND Mutability Score,Mutability,spike
+2021-06,84,0.18025751072961374,0.1,IND Mutability Score,Mutability,spike
+2021-07,95,0.20386266094420602,0.1,IND Mutability Score,Mutability,spike
+2021-08,111,0.23819742489270387,0.1,IND Mutability Score,Mutability,spike
+2021-09,128,0.27467811158798283,0.1,IND Mutability Score,Mutability,spike
+2021-10,135,0.28969957081545067,0.1,IND Mutability Score,Mutability,spike
+2021-11,143,0.30686695278969955,0.1,IND Mutability Score,Mutability,spike
+2021-12,161,0.34549356223175964,0.1,IND Mutability Score,Mutability,spike
+2022-01,177,0.3798283261802575,0.1,IND Mutability Score,Mutability,spike
+2022-02,186,0.39914163090128757,0.1,IND Mutability Score,Mutability,spike
+2022-03,194,0.41630901287553645,0.1,IND Mutability Score,Mutability,spike
+2022-04,197,0.4227467811158798,0.1,IND Mutability Score,Mutability,spike
+2022-05,204,0.43776824034334766,0.1,IND Mutability Score,Mutability,spike
+2022-06,207,0.44420600858369097,0.1,IND Mutability Score,Mutability,spike
+2022-07,208,0.44635193133047213,0.1,IND Mutability Score,Mutability,spike
+2022-08,213,0.4570815450643777,0.1,IND Mutability Score,Mutability,spike
+2020-03,0,0.0,0.1,DCA Mutability Score,Mutability,spike
+2020-04,0,0.0,0.1,DCA Mutability Score,Mutability,spike
+2020-05,0,0.0,0.1,DCA Mutability Score,Mutability,spike
+2020-06,2,0.004291845493562232,0.1,DCA Mutability Score,Mutability,spike
+2020-07,2,0.004291845493562232,0.1,DCA Mutability Score,Mutability,spike
+2020-08,3,0.006437768240343348,0.1,DCA Mutability Score,Mutability,spike
+2020-09,4,0.008583690987124463,0.1,DCA Mutability Score,Mutability,spike
+2020-10,7,0.015021459227467811,0.1,DCA Mutability Score,Mutability,spike
+2020-11,13,0.027896995708154508,0.1,DCA Mutability Score,Mutability,spike
+2020-12,19,0.0407725321888412,0.1,DCA Mutability Score,Mutability,spike
+2021-01,31,0.06652360515021459,0.1,DCA Mutability Score,Mutability,spike
+2021-02,40,0.08583690987124463,0.1,DCA Mutability Score,Mutability,spike
+2021-03,52,0.11158798283261803,0.1,DCA Mutability Score,Mutability,spike
+2021-04,70,0.15021459227467812,0.1,DCA Mutability Score,Mutability,spike
+2021-05,77,0.16523605150214593,0.1,DCA Mutability Score,Mutability,spike
+2021-06,90,0.19313304721030042,0.1,DCA Mutability Score,Mutability,spike
+2021-07,100,0.2145922746781116,0.1,DCA Mutability Score,Mutability,spike
+2021-08,118,0.2532188841201717,0.1,DCA Mutability Score,Mutability,spike
+2021-09,134,0.2875536480686695,0.1,DCA Mutability Score,Mutability,spike
+2021-10,147,0.315450643776824,0.1,DCA Mutability Score,Mutability,spike
+2021-11,159,0.34120171673819744,0.1,DCA Mutability Score,Mutability,spike
+2021-12,174,0.37339055793991416,0.1,DCA Mutability Score,Mutability,spike
+2022-01,184,0.3948497854077253,0.1,DCA Mutability Score,Mutability,spike
+2022-02,193,0.41416309012875535,0.1,DCA Mutability Score,Mutability,spike
+2022-03,205,0.43991416309012876,0.1,DCA Mutability Score,Mutability,spike
+2022-04,209,0.44849785407725323,0.1,DCA Mutability Score,Mutability,spike
+2022-05,217,0.4656652360515021,0.1,DCA Mutability Score,Mutability,spike
+2022-06,221,0.4742489270386266,0.1,DCA Mutability Score,Mutability,spike
+2022-07,222,0.47639484978540775,0.1,DCA Mutability Score,Mutability,spike
+2022-08,227,0.4871244635193133,0.1,DCA Mutability Score,Mutability,spike
+2020-03,0,0.0,0.1,Evescape,Eve,spike
+2020-04,0,0.0,0.1,Evescape,Eve,spike
+2020-05,0,0.0,0.1,Evescape,Eve,spike
+2020-06,0,0.0,0.1,Evescape,Eve,spike
+2020-07,0,0.0,0.1,Evescape,Eve,spike
+2020-08,0,0.0,0.1,Evescape,Eve,spike
+2020-09,1,0.002145922746781116,0.1,Evescape,Eve,spike
+2020-10,2,0.004291845493562232,0.1,Evescape,Eve,spike
+2020-11,5,0.01072961373390558,0.1,Evescape,Eve,spike
+2020-12,10,0.02145922746781116,0.1,Evescape,Eve,spike
+2021-01,17,0.03648068669527897,0.1,Evescape,Eve,spike
+2021-02,20,0.04291845493562232,0.1,Evescape,Eve,spike
+2021-03,34,0.07296137339055794,0.1,Evescape,Eve,spike
+2021-04,48,0.10300429184549356,0.1,Evescape,Eve,spike
+2021-05,54,0.11587982832618025,0.1,Evescape,Eve,spike
+2021-06,65,0.13948497854077252,0.1,Evescape,Eve,spike
+2021-07,70,0.15021459227467812,0.1,Evescape,Eve,spike
+2021-08,83,0.1781115879828326,0.1,Evescape,Eve,spike
+2021-09,90,0.19313304721030042,0.1,Evescape,Eve,spike
+2021-10,99,0.21244635193133046,0.1,Evescape,Eve,spike
+2021-11,105,0.22532188841201717,0.1,Evescape,Eve,spike
+2021-12,119,0.2553648068669528,0.1,Evescape,Eve,spike
+2022-01,133,0.2854077253218884,0.1,Evescape,Eve,spike
+2022-02,146,0.3133047210300429,0.1,Evescape,Eve,spike
+2022-03,155,0.33261802575107297,0.1,Evescape,Eve,spike
+2022-04,159,0.34120171673819744,0.1,Evescape,Eve,spike
+2022-05,164,0.351931330472103,0.1,Evescape,Eve,spike
+2022-06,165,0.3540772532188841,0.1,Evescape,Eve,spike
+2022-07,167,0.3583690987124464,0.1,Evescape,Eve,spike
+2022-08,170,0.3648068669527897,0.1,Evescape,Eve,spike
+2020-03,0,0.0,0.1,Evescape Fitness,Eve,spike
+2020-04,0,0.0,0.1,Evescape Fitness,Eve,spike
+2020-05,0,0.0,0.1,Evescape Fitness,Eve,spike
+2020-06,1,0.002145922746781116,0.1,Evescape Fitness,Eve,spike
+2020-07,1,0.002145922746781116,0.1,Evescape Fitness,Eve,spike
+2020-08,1,0.002145922746781116,0.1,Evescape Fitness,Eve,spike
+2020-09,3,0.006437768240343348,0.1,Evescape Fitness,Eve,spike
+2020-10,4,0.008583690987124463,0.1,Evescape Fitness,Eve,spike
+2020-11,8,0.017167381974248927,0.1,Evescape Fitness,Eve,spike
+2020-12,16,0.034334763948497854,0.1,Evescape Fitness,Eve,spike
+2021-01,31,0.06652360515021459,0.1,Evescape Fitness,Eve,spike
+2021-02,37,0.07939914163090128,0.1,Evescape Fitness,Eve,spike
+2021-03,52,0.11158798283261803,0.1,Evescape Fitness,Eve,spike
+2021-04,64,0.13733905579399142,0.1,Evescape Fitness,Eve,spike
+2021-05,75,0.1609442060085837,0.1,Evescape Fitness,Eve,spike
+2021-06,89,0.19098712446351931,0.1,Evescape Fitness,Eve,spike
+2021-07,99,0.21244635193133046,0.1,Evescape Fitness,Eve,spike
+2021-08,113,0.24248927038626608,0.1,Evescape Fitness,Eve,spike
+2021-09,133,0.2854077253218884,0.1,Evescape Fitness,Eve,spike
+2021-10,149,0.3197424892703863,0.1,Evescape Fitness,Eve,spike
+2021-11,163,0.3497854077253219,0.1,Evescape Fitness,Eve,spike
+2021-12,178,0.38197424892703863,0.1,Evescape Fitness,Eve,spike
+2022-01,194,0.41630901287553645,0.1,Evescape Fitness,Eve,spike
+2022-02,212,0.45493562231759654,0.1,Evescape Fitness,Eve,spike
+2022-03,229,0.49141630901287553,0.1,Evescape Fitness,Eve,spike
+2022-04,235,0.5042918454935622,0.1,Evescape Fitness,Eve,spike
+2022-05,243,0.5214592274678111,0.1,Evescape Fitness,Eve,spike
+2022-06,246,0.5278969957081545,0.1,Evescape Fitness,Eve,spike
+2022-07,248,0.5321888412017167,0.1,Evescape Fitness,Eve,spike
+2022-08,256,0.5493562231759657,0.1,Evescape Fitness,Eve,spike
+2020-03,0,0.0,0.1,Entry,Experimental Full Spike,rbd
+2020-04,0,0.0,0.1,Entry,Experimental Full Spike,rbd
+2020-05,0,0.0,0.1,Entry,Experimental Full Spike,rbd
+2020-06,0,0.0,0.1,Entry,Experimental Full Spike,rbd
+2020-07,0,0.0,0.1,Entry,Experimental Full Spike,rbd
+2020-08,0,0.0,0.1,Entry,Experimental Full Spike,rbd
+2020-09,1,0.009708737864077669,0.1,Entry,Experimental Full Spike,rbd
+2020-10,1,0.009708737864077669,0.1,Entry,Experimental Full Spike,rbd
+2020-11,1,0.009708737864077669,0.1,Entry,Experimental Full Spike,rbd
+2020-12,2,0.019417475728155338,0.1,Entry,Experimental Full Spike,rbd
+2021-01,2,0.019417475728155338,0.1,Entry,Experimental Full Spike,rbd
+2021-02,4,0.038834951456310676,0.1,Entry,Experimental Full Spike,rbd
+2021-03,7,0.06796116504854369,0.1,Entry,Experimental Full Spike,rbd
+2021-04,8,0.07766990291262135,0.1,Entry,Experimental Full Spike,rbd
+2021-05,8,0.07766990291262135,0.1,Entry,Experimental Full Spike,rbd
+2021-06,8,0.07766990291262135,0.1,Entry,Experimental Full Spike,rbd
+2021-07,8,0.07766990291262135,0.1,Entry,Experimental Full Spike,rbd
+2021-08,10,0.0970873786407767,0.1,Entry,Experimental Full Spike,rbd
+2021-09,12,0.11650485436893204,0.1,Entry,Experimental Full Spike,rbd
+2021-10,13,0.1262135922330097,0.1,Entry,Experimental Full Spike,rbd
+2021-11,15,0.14563106796116504,0.1,Entry,Experimental Full Spike,rbd
+2021-12,19,0.18446601941747573,0.1,Entry,Experimental Full Spike,rbd
+2022-01,20,0.1941747572815534,0.1,Entry,Experimental Full Spike,rbd
+2022-02,21,0.20388349514563106,0.1,Entry,Experimental Full Spike,rbd
+2022-03,26,0.2524271844660194,0.1,Entry,Experimental Full Spike,rbd
+2022-04,30,0.2912621359223301,0.1,Entry,Experimental Full Spike,rbd
+2022-05,30,0.2912621359223301,0.1,Entry,Experimental Full Spike,rbd
+2022-06,31,0.30097087378640774,0.1,Entry,Experimental Full Spike,rbd
+2022-07,32,0.3106796116504854,0.1,Entry,Experimental Full Spike,rbd
+2022-08,33,0.32038834951456313,0.1,Entry,Experimental Full Spike,rbd
+2020-03,0,0.0,0.1,Binding,Experimental Full Spike,rbd
+2020-04,0,0.0,0.1,Binding,Experimental Full Spike,rbd
+2020-05,0,0.0,0.1,Binding,Experimental Full Spike,rbd
+2020-06,0,0.0,0.1,Binding,Experimental Full Spike,rbd
+2020-07,0,0.0,0.1,Binding,Experimental Full Spike,rbd
+2020-08,0,0.0,0.1,Binding,Experimental Full Spike,rbd
+2020-09,0,0.0,0.1,Binding,Experimental Full Spike,rbd
+2020-10,0,0.0,0.1,Binding,Experimental Full Spike,rbd
+2020-11,2,0.019417475728155338,0.1,Binding,Experimental Full Spike,rbd
+2020-12,3,0.02912621359223301,0.1,Binding,Experimental Full Spike,rbd
+2021-01,3,0.02912621359223301,0.1,Binding,Experimental Full Spike,rbd
+2021-02,3,0.02912621359223301,0.1,Binding,Experimental Full Spike,rbd
+2021-03,4,0.038834951456310676,0.1,Binding,Experimental Full Spike,rbd
+2021-04,5,0.04854368932038835,0.1,Binding,Experimental Full Spike,rbd
+2021-05,5,0.04854368932038835,0.1,Binding,Experimental Full Spike,rbd
+2021-06,5,0.04854368932038835,0.1,Binding,Experimental Full Spike,rbd
+2021-07,5,0.04854368932038835,0.1,Binding,Experimental Full Spike,rbd
+2021-08,7,0.06796116504854369,0.1,Binding,Experimental Full Spike,rbd
+2021-09,7,0.06796116504854369,0.1,Binding,Experimental Full Spike,rbd
+2021-10,8,0.07766990291262135,0.1,Binding,Experimental Full Spike,rbd
+2021-11,9,0.08737864077669903,0.1,Binding,Experimental Full Spike,rbd
+2021-12,11,0.10679611650485436,0.1,Binding,Experimental Full Spike,rbd
+2022-01,15,0.14563106796116504,0.1,Binding,Experimental Full Spike,rbd
+2022-02,15,0.14563106796116504,0.1,Binding,Experimental Full Spike,rbd
+2022-03,16,0.1553398058252427,0.1,Binding,Experimental Full Spike,rbd
+2022-04,20,0.1941747572815534,0.1,Binding,Experimental Full Spike,rbd
+2022-05,20,0.1941747572815534,0.1,Binding,Experimental Full Spike,rbd
+2022-06,21,0.20388349514563106,0.1,Binding,Experimental Full Spike,rbd
+2022-07,22,0.21359223300970873,0.1,Binding,Experimental Full Spike,rbd
+2022-08,23,0.22330097087378642,0.1,Binding,Experimental Full Spike,rbd
+2020-03,0,0.0,0.1,Escape,Experimental Full Spike,rbd
+2020-04,0,0.0,0.1,Escape,Experimental Full Spike,rbd
+2020-05,0,0.0,0.1,Escape,Experimental Full Spike,rbd
+2020-06,0,0.0,0.1,Escape,Experimental Full Spike,rbd
+2020-07,0,0.0,0.1,Escape,Experimental Full Spike,rbd
+2020-08,0,0.0,0.1,Escape,Experimental Full Spike,rbd
+2020-09,0,0.0,0.1,Escape,Experimental Full Spike,rbd
+2020-10,0,0.0,0.1,Escape,Experimental Full Spike,rbd
+2020-11,0,0.0,0.1,Escape,Experimental Full Spike,rbd
+2020-12,0,0.0,0.1,Escape,Experimental Full Spike,rbd
+2021-01,0,0.0,0.1,Escape,Experimental Full Spike,rbd
+2021-02,0,0.0,0.1,Escape,Experimental Full Spike,rbd
+2021-03,0,0.0,0.1,Escape,Experimental Full Spike,rbd
+2021-04,2,0.019417475728155338,0.1,Escape,Experimental Full Spike,rbd
+2021-05,2,0.019417475728155338,0.1,Escape,Experimental Full Spike,rbd
+2021-06,2,0.019417475728155338,0.1,Escape,Experimental Full Spike,rbd
+2021-07,2,0.019417475728155338,0.1,Escape,Experimental Full Spike,rbd
+2021-08,8,0.07766990291262135,0.1,Escape,Experimental Full Spike,rbd
+2021-09,8,0.07766990291262135,0.1,Escape,Experimental Full Spike,rbd
+2021-10,8,0.07766990291262135,0.1,Escape,Experimental Full Spike,rbd
+2021-11,11,0.10679611650485436,0.1,Escape,Experimental Full Spike,rbd
+2021-12,12,0.11650485436893204,0.1,Escape,Experimental Full Spike,rbd
+2022-01,13,0.1262135922330097,0.1,Escape,Experimental Full Spike,rbd
+2022-02,13,0.1262135922330097,0.1,Escape,Experimental Full Spike,rbd
+2022-03,15,0.14563106796116504,0.1,Escape,Experimental Full Spike,rbd
+2022-04,19,0.18446601941747573,0.1,Escape,Experimental Full Spike,rbd
+2022-05,20,0.1941747572815534,0.1,Escape,Experimental Full Spike,rbd
+2022-06,20,0.1941747572815534,0.1,Escape,Experimental Full Spike,rbd
+2022-07,20,0.1941747572815534,0.1,Escape,Experimental Full Spike,rbd
+2022-08,20,0.1941747572815534,0.1,Escape,Experimental Full Spike,rbd
+2020-03,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2020-04,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2020-05,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2020-06,0,0.0,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2020-07,1,0.009708737864077669,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2020-08,1,0.009708737864077669,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2020-09,1,0.009708737864077669,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2020-10,1,0.009708737864077669,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2020-11,4,0.038834951456310676,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2020-12,8,0.07766990291262135,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2021-01,10,0.0970873786407767,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2021-02,11,0.10679611650485436,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2021-03,15,0.14563106796116504,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2021-04,17,0.1650485436893204,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2021-05,21,0.20388349514563106,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2021-06,23,0.22330097087378642,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2021-07,24,0.23300970873786409,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2021-08,27,0.2621359223300971,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2021-09,28,0.27184466019417475,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2021-10,29,0.2815533980582524,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2021-11,32,0.3106796116504854,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2021-12,35,0.33980582524271846,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2022-01,37,0.3592233009708738,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2022-02,38,0.36893203883495146,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2022-03,40,0.3883495145631068,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2022-04,43,0.4174757281553398,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2022-05,43,0.4174757281553398,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2022-06,44,0.42718446601941745,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2022-07,44,0.42718446601941745,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2022-08,47,0.4563106796116505,0.1,RBD Wuhan-Hu-1 Binding,Experimental,rbd
+2020-03,0,0.0,0.1,RBD Variant Average Binding,Experimental,rbd
+2020-04,0,0.0,0.1,RBD Variant Average Binding,Experimental,rbd
+2020-05,0,0.0,0.1,RBD Variant Average Binding,Experimental,rbd
+2020-06,0,0.0,0.1,RBD Variant Average Binding,Experimental,rbd
+2020-07,1,0.009708737864077669,0.1,RBD Variant Average Binding,Experimental,rbd
+2020-08,1,0.009708737864077669,0.1,RBD Variant Average Binding,Experimental,rbd
+2020-09,1,0.009708737864077669,0.1,RBD Variant Average Binding,Experimental,rbd
+2020-10,1,0.009708737864077669,0.1,RBD Variant Average Binding,Experimental,rbd
+2020-11,4,0.038834951456310676,0.1,RBD Variant Average Binding,Experimental,rbd
+2020-12,8,0.07766990291262135,0.1,RBD Variant Average Binding,Experimental,rbd
+2021-01,10,0.0970873786407767,0.1,RBD Variant Average Binding,Experimental,rbd
+2021-02,14,0.13592233009708737,0.1,RBD Variant Average Binding,Experimental,rbd
+2021-03,16,0.1553398058252427,0.1,RBD Variant Average Binding,Experimental,rbd
+2021-04,18,0.17475728155339806,0.1,RBD Variant Average Binding,Experimental,rbd
+2021-05,22,0.21359223300970873,0.1,RBD Variant Average Binding,Experimental,rbd
+2021-06,23,0.22330097087378642,0.1,RBD Variant Average Binding,Experimental,rbd
+2021-07,25,0.24271844660194175,0.1,RBD Variant Average Binding,Experimental,rbd
+2021-08,28,0.27184466019417475,0.1,RBD Variant Average Binding,Experimental,rbd
+2021-09,29,0.2815533980582524,0.1,RBD Variant Average Binding,Experimental,rbd
+2021-10,30,0.2912621359223301,0.1,RBD Variant Average Binding,Experimental,rbd
+2021-11,35,0.33980582524271846,0.1,RBD Variant Average Binding,Experimental,rbd
+2021-12,36,0.34951456310679613,0.1,RBD Variant Average Binding,Experimental,rbd
+2022-01,39,0.3786407766990291,0.1,RBD Variant Average Binding,Experimental,rbd
+2022-02,41,0.39805825242718446,0.1,RBD Variant Average Binding,Experimental,rbd
+2022-03,43,0.4174757281553398,0.1,RBD Variant Average Binding,Experimental,rbd
+2022-04,47,0.4563106796116505,0.1,RBD Variant Average Binding,Experimental,rbd
+2022-05,47,0.4563106796116505,0.1,RBD Variant Average Binding,Experimental,rbd
+2022-06,49,0.47572815533980584,0.1,RBD Variant Average Binding,Experimental,rbd
+2022-07,49,0.47572815533980584,0.1,RBD Variant Average Binding,Experimental,rbd
+2022-08,53,0.5145631067961165,0.1,RBD Variant Average Binding,Experimental,rbd
+2020-03,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2020-04,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2020-05,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2020-06,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2020-07,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2020-08,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2020-09,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2020-10,0,0.0,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2020-11,2,0.019417475728155338,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2020-12,3,0.02912621359223301,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2021-01,3,0.02912621359223301,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2021-02,5,0.04854368932038835,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2021-03,7,0.06796116504854369,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2021-04,10,0.0970873786407767,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2021-05,15,0.14563106796116504,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2021-06,17,0.1650485436893204,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2021-07,17,0.1650485436893204,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2021-08,23,0.22330097087378642,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2021-09,24,0.23300970873786409,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2021-10,26,0.2524271844660194,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2021-11,30,0.2912621359223301,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2021-12,30,0.2912621359223301,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2022-01,31,0.30097087378640774,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2022-02,33,0.32038834951456313,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2022-03,36,0.34951456310679613,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2022-04,38,0.36893203883495146,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2022-05,40,0.3883495145631068,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2022-06,40,0.3883495145631068,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2022-07,42,0.4077669902912621,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2022-08,43,0.4174757281553398,0.1,RBD Wuhan-Hu-1 Expression,Experimental,rbd
+2020-03,0,0.0,0.1,RBD Variant Average Expression,Experimental,rbd
+2020-04,0,0.0,0.1,RBD Variant Average Expression,Experimental,rbd
+2020-05,0,0.0,0.1,RBD Variant Average Expression,Experimental,rbd
+2020-06,0,0.0,0.1,RBD Variant Average Expression,Experimental,rbd
+2020-07,1,0.009708737864077669,0.1,RBD Variant Average Expression,Experimental,rbd
+2020-08,1,0.009708737864077669,0.1,RBD Variant Average Expression,Experimental,rbd
+2020-09,1,0.009708737864077669,0.1,RBD Variant Average Expression,Experimental,rbd
+2020-10,1,0.009708737864077669,0.1,RBD Variant Average Expression,Experimental,rbd
+2020-11,2,0.019417475728155338,0.1,RBD Variant Average Expression,Experimental,rbd
+2020-12,4,0.038834951456310676,0.1,RBD Variant Average Expression,Experimental,rbd
+2021-01,4,0.038834951456310676,0.1,RBD Variant Average Expression,Experimental,rbd
+2021-02,6,0.05825242718446602,0.1,RBD Variant Average Expression,Experimental,rbd
+2021-03,11,0.10679611650485436,0.1,RBD Variant Average Expression,Experimental,rbd
+2021-04,13,0.1262135922330097,0.1,RBD Variant Average Expression,Experimental,rbd
+2021-05,16,0.1553398058252427,0.1,RBD Variant Average Expression,Experimental,rbd
+2021-06,16,0.1553398058252427,0.1,RBD Variant Average Expression,Experimental,rbd
+2021-07,17,0.1650485436893204,0.1,RBD Variant Average Expression,Experimental,rbd
+2021-08,20,0.1941747572815534,0.1,RBD Variant Average Expression,Experimental,rbd
+2021-09,20,0.1941747572815534,0.1,RBD Variant Average Expression,Experimental,rbd
+2021-10,20,0.1941747572815534,0.1,RBD Variant Average Expression,Experimental,rbd
+2021-11,22,0.21359223300970873,0.1,RBD Variant Average Expression,Experimental,rbd
+2021-12,22,0.21359223300970873,0.1,RBD Variant Average Expression,Experimental,rbd
+2022-01,24,0.23300970873786409,0.1,RBD Variant Average Expression,Experimental,rbd
+2022-02,26,0.2524271844660194,0.1,RBD Variant Average Expression,Experimental,rbd
+2022-03,28,0.27184466019417475,0.1,RBD Variant Average Expression,Experimental,rbd
+2022-04,32,0.3106796116504854,0.1,RBD Variant Average Expression,Experimental,rbd
+2022-05,33,0.32038834951456313,0.1,RBD Variant Average Expression,Experimental,rbd
+2022-06,33,0.32038834951456313,0.1,RBD Variant Average Expression,Experimental,rbd
+2022-07,33,0.32038834951456313,0.1,RBD Variant Average Expression,Experimental,rbd
+2022-08,34,0.3300970873786408,0.1,RBD Variant Average Expression,Experimental,rbd
+2020-03,0,0.0,0.1,relative_grammaticality,ESM,rbd
+2020-04,0,0.0,0.1,relative_grammaticality,ESM,rbd
+2020-05,0,0.0,0.1,relative_grammaticality,ESM,rbd
+2020-06,0,0.0,0.1,relative_grammaticality,ESM,rbd
+2020-07,0,0.0,0.1,relative_grammaticality,ESM,rbd
+2020-08,0,0.0,0.1,relative_grammaticality,ESM,rbd
+2020-09,2,0.019417475728155338,0.1,relative_grammaticality,ESM,rbd
+2020-10,3,0.02912621359223301,0.1,relative_grammaticality,ESM,rbd
+2020-11,4,0.038834951456310676,0.1,relative_grammaticality,ESM,rbd
+2020-12,5,0.04854368932038835,0.1,relative_grammaticality,ESM,rbd
+2021-01,5,0.04854368932038835,0.1,relative_grammaticality,ESM,rbd
+2021-02,7,0.06796116504854369,0.1,relative_grammaticality,ESM,rbd
+2021-03,9,0.08737864077669903,0.1,relative_grammaticality,ESM,rbd
+2021-04,10,0.0970873786407767,0.1,relative_grammaticality,ESM,rbd
+2021-05,10,0.0970873786407767,0.1,relative_grammaticality,ESM,rbd
+2021-06,10,0.0970873786407767,0.1,relative_grammaticality,ESM,rbd
+2021-07,12,0.11650485436893204,0.1,relative_grammaticality,ESM,rbd
+2021-08,16,0.1553398058252427,0.1,relative_grammaticality,ESM,rbd
+2021-09,17,0.1650485436893204,0.1,relative_grammaticality,ESM,rbd
+2021-10,18,0.17475728155339806,0.1,relative_grammaticality,ESM,rbd
+2021-11,24,0.23300970873786409,0.1,relative_grammaticality,ESM,rbd
+2021-12,28,0.27184466019417475,0.1,relative_grammaticality,ESM,rbd
+2022-01,31,0.30097087378640774,0.1,relative_grammaticality,ESM,rbd
+2022-02,32,0.3106796116504854,0.1,relative_grammaticality,ESM,rbd
+2022-03,39,0.3786407766990291,0.1,relative_grammaticality,ESM,rbd
+2022-04,43,0.4174757281553398,0.1,relative_grammaticality,ESM,rbd
+2022-05,44,0.42718446601941745,0.1,relative_grammaticality,ESM,rbd
+2022-06,46,0.44660194174757284,0.1,relative_grammaticality,ESM,rbd
+2022-07,48,0.46601941747572817,0.1,relative_grammaticality,ESM,rbd
+2022-08,50,0.4854368932038835,0.1,relative_grammaticality,ESM,rbd
+2020-03,0,0.0,0.1,semantic_score,ESM,rbd
+2020-04,0,0.0,0.1,semantic_score,ESM,rbd
+2020-05,0,0.0,0.1,semantic_score,ESM,rbd
+2020-06,0,0.0,0.1,semantic_score,ESM,rbd
+2020-07,0,0.0,0.1,semantic_score,ESM,rbd
+2020-08,0,0.0,0.1,semantic_score,ESM,rbd
+2020-09,0,0.0,0.1,semantic_score,ESM,rbd
+2020-10,0,0.0,0.1,semantic_score,ESM,rbd
+2020-11,0,0.0,0.1,semantic_score,ESM,rbd
+2020-12,1,0.009708737864077669,0.1,semantic_score,ESM,rbd
+2021-01,1,0.009708737864077669,0.1,semantic_score,ESM,rbd
+2021-02,1,0.009708737864077669,0.1,semantic_score,ESM,rbd
+2021-03,1,0.009708737864077669,0.1,semantic_score,ESM,rbd
+2021-04,1,0.009708737864077669,0.1,semantic_score,ESM,rbd
+2021-05,1,0.009708737864077669,0.1,semantic_score,ESM,rbd
+2021-06,1,0.009708737864077669,0.1,semantic_score,ESM,rbd
+2021-07,1,0.009708737864077669,0.1,semantic_score,ESM,rbd
+2021-08,3,0.02912621359223301,0.1,semantic_score,ESM,rbd
+2021-09,4,0.038834951456310676,0.1,semantic_score,ESM,rbd
+2021-10,5,0.04854368932038835,0.1,semantic_score,ESM,rbd
+2021-11,6,0.05825242718446602,0.1,semantic_score,ESM,rbd
+2021-12,8,0.07766990291262135,0.1,semantic_score,ESM,rbd
+2022-01,10,0.0970873786407767,0.1,semantic_score,ESM,rbd
+2022-02,12,0.11650485436893204,0.1,semantic_score,ESM,rbd
+2022-03,16,0.1553398058252427,0.1,semantic_score,ESM,rbd
+2022-04,17,0.1650485436893204,0.1,semantic_score,ESM,rbd
+2022-05,18,0.17475728155339806,0.1,semantic_score,ESM,rbd
+2022-06,18,0.17475728155339806,0.1,semantic_score,ESM,rbd
+2022-07,18,0.17475728155339806,0.1,semantic_score,ESM,rbd
+2022-08,18,0.17475728155339806,0.1,semantic_score,ESM,rbd
+2020-03,0,0.0,0.1,relative_grammaticality_with_eve,ESM,rbd
+2020-04,0,0.0,0.1,relative_grammaticality_with_eve,ESM,rbd
+2020-05,0,0.0,0.1,relative_grammaticality_with_eve,ESM,rbd
+2020-06,0,0.0,0.1,relative_grammaticality_with_eve,ESM,rbd
+2020-07,0,0.0,0.1,relative_grammaticality_with_eve,ESM,rbd
+2020-08,0,0.0,0.1,relative_grammaticality_with_eve,ESM,rbd
+2020-09,0,0.0,0.1,relative_grammaticality_with_eve,ESM,rbd
+2020-10,0,0.0,0.1,relative_grammaticality_with_eve,ESM,rbd
+2020-11,0,0.0,0.1,relative_grammaticality_with_eve,ESM,rbd
+2020-12,1,0.009708737864077669,0.1,relative_grammaticality_with_eve,ESM,rbd
+2021-01,2,0.019417475728155338,0.1,relative_grammaticality_with_eve,ESM,rbd
+2021-02,3,0.02912621359223301,0.1,relative_grammaticality_with_eve,ESM,rbd
+2021-03,4,0.038834951456310676,0.1,relative_grammaticality_with_eve,ESM,rbd
+2021-04,4,0.038834951456310676,0.1,relative_grammaticality_with_eve,ESM,rbd
+2021-05,4,0.038834951456310676,0.1,relative_grammaticality_with_eve,ESM,rbd
+2021-06,4,0.038834951456310676,0.1,relative_grammaticality_with_eve,ESM,rbd
+2021-07,7,0.06796116504854369,0.1,relative_grammaticality_with_eve,ESM,rbd
+2021-08,9,0.08737864077669903,0.1,relative_grammaticality_with_eve,ESM,rbd
+2021-09,10,0.0970873786407767,0.1,relative_grammaticality_with_eve,ESM,rbd
+2021-10,11,0.10679611650485436,0.1,relative_grammaticality_with_eve,ESM,rbd
+2021-11,13,0.1262135922330097,0.1,relative_grammaticality_with_eve,ESM,rbd
+2021-12,15,0.14563106796116504,0.1,relative_grammaticality_with_eve,ESM,rbd
+2022-01,17,0.1650485436893204,0.1,relative_grammaticality_with_eve,ESM,rbd
+2022-02,17,0.1650485436893204,0.1,relative_grammaticality_with_eve,ESM,rbd
+2022-03,19,0.18446601941747573,0.1,relative_grammaticality_with_eve,ESM,rbd
+2022-04,20,0.1941747572815534,0.1,relative_grammaticality_with_eve,ESM,rbd
+2022-05,22,0.21359223300970873,0.1,relative_grammaticality_with_eve,ESM,rbd
+2022-06,23,0.22330097087378642,0.1,relative_grammaticality_with_eve,ESM,rbd
+2022-07,24,0.23300970873786409,0.1,relative_grammaticality_with_eve,ESM,rbd
+2022-08,27,0.2621359223300971,0.1,relative_grammaticality_with_eve,ESM,rbd
+2020-03,0,0.0,0.1,grammaticality,ESM,rbd
+2020-04,0,0.0,0.1,grammaticality,ESM,rbd
+2020-05,0,0.0,0.1,grammaticality,ESM,rbd
+2020-06,0,0.0,0.1,grammaticality,ESM,rbd
+2020-07,0,0.0,0.1,grammaticality,ESM,rbd
+2020-08,0,0.0,0.1,grammaticality,ESM,rbd
+2020-09,2,0.019417475728155338,0.1,grammaticality,ESM,rbd
+2020-10,3,0.02912621359223301,0.1,grammaticality,ESM,rbd
+2020-11,4,0.038834951456310676,0.1,grammaticality,ESM,rbd
+2020-12,4,0.038834951456310676,0.1,grammaticality,ESM,rbd
+2021-01,4,0.038834951456310676,0.1,grammaticality,ESM,rbd
+2021-02,6,0.05825242718446602,0.1,grammaticality,ESM,rbd
+2021-03,8,0.07766990291262135,0.1,grammaticality,ESM,rbd
+2021-04,10,0.0970873786407767,0.1,grammaticality,ESM,rbd
+2021-05,11,0.10679611650485436,0.1,grammaticality,ESM,rbd
+2021-06,11,0.10679611650485436,0.1,grammaticality,ESM,rbd
+2021-07,12,0.11650485436893204,0.1,grammaticality,ESM,rbd
+2021-08,18,0.17475728155339806,0.1,grammaticality,ESM,rbd
+2021-09,19,0.18446601941747573,0.1,grammaticality,ESM,rbd
+2021-10,20,0.1941747572815534,0.1,grammaticality,ESM,rbd
+2021-11,26,0.2524271844660194,0.1,grammaticality,ESM,rbd
+2021-12,29,0.2815533980582524,0.1,grammaticality,ESM,rbd
+2022-01,32,0.3106796116504854,0.1,grammaticality,ESM,rbd
+2022-02,34,0.3300970873786408,0.1,grammaticality,ESM,rbd
+2022-03,40,0.3883495145631068,0.1,grammaticality,ESM,rbd
+2022-04,44,0.42718446601941745,0.1,grammaticality,ESM,rbd
+2022-05,45,0.4368932038834951,0.1,grammaticality,ESM,rbd
+2022-06,46,0.44660194174757284,0.1,grammaticality,ESM,rbd
+2022-07,48,0.46601941747572817,0.1,grammaticality,ESM,rbd
+2022-08,50,0.4854368932038835,0.1,grammaticality,ESM,rbd
+2020-03,0,0.0,0.1,masked_grammaticality,ESM,rbd
+2020-04,0,0.0,0.1,masked_grammaticality,ESM,rbd
+2020-05,0,0.0,0.1,masked_grammaticality,ESM,rbd
+2020-06,0,0.0,0.1,masked_grammaticality,ESM,rbd
+2020-07,0,0.0,0.1,masked_grammaticality,ESM,rbd
+2020-08,0,0.0,0.1,masked_grammaticality,ESM,rbd
+2020-09,2,0.019417475728155338,0.1,masked_grammaticality,ESM,rbd
+2020-10,2,0.019417475728155338,0.1,masked_grammaticality,ESM,rbd
+2020-11,3,0.02912621359223301,0.1,masked_grammaticality,ESM,rbd
+2020-12,3,0.02912621359223301,0.1,masked_grammaticality,ESM,rbd
+2021-01,3,0.02912621359223301,0.1,masked_grammaticality,ESM,rbd
+2021-02,4,0.038834951456310676,0.1,masked_grammaticality,ESM,rbd
+2021-03,7,0.06796116504854369,0.1,masked_grammaticality,ESM,rbd
+2021-04,10,0.0970873786407767,0.1,masked_grammaticality,ESM,rbd
+2021-05,10,0.0970873786407767,0.1,masked_grammaticality,ESM,rbd
+2021-06,10,0.0970873786407767,0.1,masked_grammaticality,ESM,rbd
+2021-07,12,0.11650485436893204,0.1,masked_grammaticality,ESM,rbd
+2021-08,21,0.20388349514563106,0.1,masked_grammaticality,ESM,rbd
+2021-09,21,0.20388349514563106,0.1,masked_grammaticality,ESM,rbd
+2021-10,27,0.2621359223300971,0.1,masked_grammaticality,ESM,rbd
+2021-11,32,0.3106796116504854,0.1,masked_grammaticality,ESM,rbd
+2021-12,33,0.32038834951456313,0.1,masked_grammaticality,ESM,rbd
+2022-01,36,0.34951456310679613,0.1,masked_grammaticality,ESM,rbd
+2022-02,38,0.36893203883495146,0.1,masked_grammaticality,ESM,rbd
+2022-03,43,0.4174757281553398,0.1,masked_grammaticality,ESM,rbd
+2022-04,47,0.4563106796116505,0.1,masked_grammaticality,ESM,rbd
+2022-05,48,0.46601941747572817,0.1,masked_grammaticality,ESM,rbd
+2022-06,49,0.47572815533980584,0.1,masked_grammaticality,ESM,rbd
+2022-07,51,0.49514563106796117,0.1,masked_grammaticality,ESM,rbd
+2022-08,54,0.5242718446601942,0.1,masked_grammaticality,ESM,rbd
+2020-03,0,0.0,0.1,mutated_grammaticality,ESM,rbd
+2020-04,0,0.0,0.1,mutated_grammaticality,ESM,rbd
+2020-05,0,0.0,0.1,mutated_grammaticality,ESM,rbd
+2020-06,0,0.0,0.1,mutated_grammaticality,ESM,rbd
+2020-07,0,0.0,0.1,mutated_grammaticality,ESM,rbd
+2020-08,0,0.0,0.1,mutated_grammaticality,ESM,rbd
+2020-09,1,0.009708737864077669,0.1,mutated_grammaticality,ESM,rbd
+2020-10,1,0.009708737864077669,0.1,mutated_grammaticality,ESM,rbd
+2020-11,1,0.009708737864077669,0.1,mutated_grammaticality,ESM,rbd
+2020-12,1,0.009708737864077669,0.1,mutated_grammaticality,ESM,rbd
+2021-01,1,0.009708737864077669,0.1,mutated_grammaticality,ESM,rbd
+2021-02,4,0.038834951456310676,0.1,mutated_grammaticality,ESM,rbd
+2021-03,7,0.06796116504854369,0.1,mutated_grammaticality,ESM,rbd
+2021-04,10,0.0970873786407767,0.1,mutated_grammaticality,ESM,rbd
+2021-05,10,0.0970873786407767,0.1,mutated_grammaticality,ESM,rbd
+2021-06,10,0.0970873786407767,0.1,mutated_grammaticality,ESM,rbd
+2021-07,12,0.11650485436893204,0.1,mutated_grammaticality,ESM,rbd
+2021-08,21,0.20388349514563106,0.1,mutated_grammaticality,ESM,rbd
+2021-09,21,0.20388349514563106,0.1,mutated_grammaticality,ESM,rbd
+2021-10,25,0.24271844660194175,0.1,mutated_grammaticality,ESM,rbd
+2021-11,31,0.30097087378640774,0.1,mutated_grammaticality,ESM,rbd
+2021-12,32,0.3106796116504854,0.1,mutated_grammaticality,ESM,rbd
+2022-01,34,0.3300970873786408,0.1,mutated_grammaticality,ESM,rbd
+2022-02,36,0.34951456310679613,0.1,mutated_grammaticality,ESM,rbd
+2022-03,40,0.3883495145631068,0.1,mutated_grammaticality,ESM,rbd
+2022-04,44,0.42718446601941745,0.1,mutated_grammaticality,ESM,rbd
+2022-05,45,0.4368932038834951,0.1,mutated_grammaticality,ESM,rbd
+2022-06,47,0.4563106796116505,0.1,mutated_grammaticality,ESM,rbd
+2022-07,50,0.4854368932038835,0.1,mutated_grammaticality,ESM,rbd
+2022-08,51,0.49514563106796117,0.1,mutated_grammaticality,ESM,rbd
+2020-03,0,0.0,0.1,IND Mutability Score,Mutability,rbd
+2020-04,0,0.0,0.1,IND Mutability Score,Mutability,rbd
+2020-05,0,0.0,0.1,IND Mutability Score,Mutability,rbd
+2020-06,0,0.0,0.1,IND Mutability Score,Mutability,rbd
+2020-07,0,0.0,0.1,IND Mutability Score,Mutability,rbd
+2020-08,0,0.0,0.1,IND Mutability Score,Mutability,rbd
+2020-09,0,0.0,0.1,IND Mutability Score,Mutability,rbd
+2020-10,0,0.0,0.1,IND Mutability Score,Mutability,rbd
+2020-11,0,0.0,0.1,IND Mutability Score,Mutability,rbd
+2020-12,1,0.009708737864077669,0.1,IND Mutability Score,Mutability,rbd
+2021-01,1,0.009708737864077669,0.1,IND Mutability Score,Mutability,rbd
+2021-02,5,0.04854368932038835,0.1,IND Mutability Score,Mutability,rbd
+2021-03,6,0.05825242718446602,0.1,IND Mutability Score,Mutability,rbd
+2021-04,9,0.08737864077669903,0.1,IND Mutability Score,Mutability,rbd
+2021-05,10,0.0970873786407767,0.1,IND Mutability Score,Mutability,rbd
+2021-06,12,0.11650485436893204,0.1,IND Mutability Score,Mutability,rbd
+2021-07,14,0.13592233009708737,0.1,IND Mutability Score,Mutability,rbd
+2021-08,21,0.20388349514563106,0.1,IND Mutability Score,Mutability,rbd
+2021-09,22,0.21359223300970873,0.1,IND Mutability Score,Mutability,rbd
+2021-10,24,0.23300970873786409,0.1,IND Mutability Score,Mutability,rbd
+2021-11,26,0.2524271844660194,0.1,IND Mutability Score,Mutability,rbd
+2021-12,30,0.2912621359223301,0.1,IND Mutability Score,Mutability,rbd
+2022-01,32,0.3106796116504854,0.1,IND Mutability Score,Mutability,rbd
+2022-02,32,0.3106796116504854,0.1,IND Mutability Score,Mutability,rbd
+2022-03,37,0.3592233009708738,0.1,IND Mutability Score,Mutability,rbd
+2022-04,39,0.3786407766990291,0.1,IND Mutability Score,Mutability,rbd
+2022-05,39,0.3786407766990291,0.1,IND Mutability Score,Mutability,rbd
+2022-06,40,0.3883495145631068,0.1,IND Mutability Score,Mutability,rbd
+2022-07,40,0.3883495145631068,0.1,IND Mutability Score,Mutability,rbd
+2022-08,40,0.3883495145631068,0.1,IND Mutability Score,Mutability,rbd
+2020-03,0,0.0,0.1,DCA Mutability Score,Mutability,rbd
+2020-04,0,0.0,0.1,DCA Mutability Score,Mutability,rbd
+2020-05,0,0.0,0.1,DCA Mutability Score,Mutability,rbd
+2020-06,0,0.0,0.1,DCA Mutability Score,Mutability,rbd
+2020-07,0,0.0,0.1,DCA Mutability Score,Mutability,rbd
+2020-08,0,0.0,0.1,DCA Mutability Score,Mutability,rbd
+2020-09,0,0.0,0.1,DCA Mutability Score,Mutability,rbd
+2020-10,0,0.0,0.1,DCA Mutability Score,Mutability,rbd
+2020-11,1,0.009708737864077669,0.1,DCA Mutability Score,Mutability,rbd
+2020-12,2,0.019417475728155338,0.1,DCA Mutability Score,Mutability,rbd
+2021-01,3,0.02912621359223301,0.1,DCA Mutability Score,Mutability,rbd
+2021-02,4,0.038834951456310676,0.1,DCA Mutability Score,Mutability,rbd
+2021-03,6,0.05825242718446602,0.1,DCA Mutability Score,Mutability,rbd
+2021-04,6,0.05825242718446602,0.1,DCA Mutability Score,Mutability,rbd
+2021-05,8,0.07766990291262135,0.1,DCA Mutability Score,Mutability,rbd
+2021-06,9,0.08737864077669903,0.1,DCA Mutability Score,Mutability,rbd
+2021-07,11,0.10679611650485436,0.1,DCA Mutability Score,Mutability,rbd
+2021-08,17,0.1650485436893204,0.1,DCA Mutability Score,Mutability,rbd
+2021-09,18,0.17475728155339806,0.1,DCA Mutability Score,Mutability,rbd
+2021-10,23,0.22330097087378642,0.1,DCA Mutability Score,Mutability,rbd
+2021-11,28,0.27184466019417475,0.1,DCA Mutability Score,Mutability,rbd
+2021-12,30,0.2912621359223301,0.1,DCA Mutability Score,Mutability,rbd
+2022-01,30,0.2912621359223301,0.1,DCA Mutability Score,Mutability,rbd
+2022-02,32,0.3106796116504854,0.1,DCA Mutability Score,Mutability,rbd
+2022-03,34,0.3300970873786408,0.1,DCA Mutability Score,Mutability,rbd
+2022-04,35,0.33980582524271846,0.1,DCA Mutability Score,Mutability,rbd
+2022-05,35,0.33980582524271846,0.1,DCA Mutability Score,Mutability,rbd
+2022-06,37,0.3592233009708738,0.1,DCA Mutability Score,Mutability,rbd
+2022-07,37,0.3592233009708738,0.1,DCA Mutability Score,Mutability,rbd
+2022-08,38,0.36893203883495146,0.1,DCA Mutability Score,Mutability,rbd
+2020-03,0,0.0,0.1,Evescape,Eve,rbd
+2020-04,0,0.0,0.1,Evescape,Eve,rbd
+2020-05,0,0.0,0.1,Evescape,Eve,rbd
+2020-06,0,0.0,0.1,Evescape,Eve,rbd
+2020-07,0,0.0,0.1,Evescape,Eve,rbd
+2020-08,0,0.0,0.1,Evescape,Eve,rbd
+2020-09,0,0.0,0.1,Evescape,Eve,rbd
+2020-10,0,0.0,0.1,Evescape,Eve,rbd
+2020-11,0,0.0,0.1,Evescape,Eve,rbd
+2020-12,1,0.009708737864077669,0.1,Evescape,Eve,rbd
+2021-01,3,0.02912621359223301,0.1,Evescape,Eve,rbd
+2021-02,5,0.04854368932038835,0.1,Evescape,Eve,rbd
+2021-03,6,0.05825242718446602,0.1,Evescape,Eve,rbd
+2021-04,6,0.05825242718446602,0.1,Evescape,Eve,rbd
+2021-05,8,0.07766990291262135,0.1,Evescape,Eve,rbd
+2021-06,9,0.08737864077669903,0.1,Evescape,Eve,rbd
+2021-07,12,0.11650485436893204,0.1,Evescape,Eve,rbd
+2021-08,14,0.13592233009708737,0.1,Evescape,Eve,rbd
+2021-09,15,0.14563106796116504,0.1,Evescape,Eve,rbd
+2021-10,16,0.1553398058252427,0.1,Evescape,Eve,rbd
+2021-11,20,0.1941747572815534,0.1,Evescape,Eve,rbd
+2021-12,23,0.22330097087378642,0.1,Evescape,Eve,rbd
+2022-01,25,0.24271844660194175,0.1,Evescape,Eve,rbd
+2022-02,25,0.24271844660194175,0.1,Evescape,Eve,rbd
+2022-03,29,0.2815533980582524,0.1,Evescape,Eve,rbd
+2022-04,31,0.30097087378640774,0.1,Evescape,Eve,rbd
+2022-05,32,0.3106796116504854,0.1,Evescape,Eve,rbd
+2022-06,33,0.32038834951456313,0.1,Evescape,Eve,rbd
+2022-07,33,0.32038834951456313,0.1,Evescape,Eve,rbd
+2022-08,34,0.3300970873786408,0.1,Evescape,Eve,rbd
+2020-03,0,0.0,0.1,Evescape Fitness,Eve,rbd
+2020-04,0,0.0,0.1,Evescape Fitness,Eve,rbd
+2020-05,0,0.0,0.1,Evescape Fitness,Eve,rbd
+2020-06,0,0.0,0.1,Evescape Fitness,Eve,rbd
+2020-07,0,0.0,0.1,Evescape Fitness,Eve,rbd
+2020-08,0,0.0,0.1,Evescape Fitness,Eve,rbd
+2020-09,0,0.0,0.1,Evescape Fitness,Eve,rbd
+2020-10,0,0.0,0.1,Evescape Fitness,Eve,rbd
+2020-11,0,0.0,0.1,Evescape Fitness,Eve,rbd
+2020-12,1,0.009708737864077669,0.1,Evescape Fitness,Eve,rbd
+2021-01,3,0.02912621359223301,0.1,Evescape Fitness,Eve,rbd
+2021-02,5,0.04854368932038835,0.1,Evescape Fitness,Eve,rbd
+2021-03,9,0.08737864077669903,0.1,Evescape Fitness,Eve,rbd
+2021-04,11,0.10679611650485436,0.1,Evescape Fitness,Eve,rbd
+2021-05,12,0.11650485436893204,0.1,Evescape Fitness,Eve,rbd
+2021-06,14,0.13592233009708737,0.1,Evescape Fitness,Eve,rbd
+2021-07,15,0.14563106796116504,0.1,Evescape Fitness,Eve,rbd
+2021-08,19,0.18446601941747573,0.1,Evescape Fitness,Eve,rbd
+2021-09,22,0.21359223300970873,0.1,Evescape Fitness,Eve,rbd
+2021-10,24,0.23300970873786409,0.1,Evescape Fitness,Eve,rbd
+2021-11,29,0.2815533980582524,0.1,Evescape Fitness,Eve,rbd
+2021-12,34,0.3300970873786408,0.1,Evescape Fitness,Eve,rbd
+2022-01,36,0.34951456310679613,0.1,Evescape Fitness,Eve,rbd
+2022-02,38,0.36893203883495146,0.1,Evescape Fitness,Eve,rbd
+2022-03,46,0.44660194174757284,0.1,Evescape Fitness,Eve,rbd
+2022-04,48,0.46601941747572817,0.1,Evescape Fitness,Eve,rbd
+2022-05,48,0.46601941747572817,0.1,Evescape Fitness,Eve,rbd
+2022-06,50,0.4854368932038835,0.1,Evescape Fitness,Eve,rbd
+2022-07,50,0.4854368932038835,0.1,Evescape Fitness,Eve,rbd
+2022-08,50,0.4854368932038835,0.1,Evescape Fitness,Eve,rbd
