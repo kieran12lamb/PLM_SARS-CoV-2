@@ -1,1 +1,1 @@
-Supplementary Figures 6,7,8 and 9 were produced using “DMS_S_annotated_with_counts.csv” from Figure 2.
+Supplementary Figure 6 was produced using “DMS_S_annotated_with_counts.csv” from Figure 2.
